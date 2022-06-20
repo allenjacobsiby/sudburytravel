@@ -211,7 +211,7 @@
     "c3": 15,
     "story": "Kevin is mad at you for being irresponible. You get the keys anyways and now you are going to take a bus to the residence.",
     "nav": "Press 1 for 3 bus or 2 for 2 Bus or 3 to go to the transit terminal",
-    "die": 1,
+    "die": 0,
     "win": 0,
     "stranger": 1
   },
